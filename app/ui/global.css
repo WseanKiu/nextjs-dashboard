@@ -1,7 +1,9 @@
+/* tailwind directives */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* Global css rules */
 input[type='number'] {
   -moz-appearance: textfield;
   appearance: textfield;
